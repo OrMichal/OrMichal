@@ -1,16 +1,12 @@
-# OrMIchal.github.io
-<h1>Ahoj, jsem Michal</h1>
+<h1>Zdravím, jsem Michal</h1>
+<div>
+  <p>Jmenuji se Michal Orsah, je mi 17 let a jsem studentem střední školy, zaměřené na IT</p>
+</div>
 
-<h2>C# projekty:</h2>
+<h2>Programování</h2>
 
-- <b>Bojová Aréna </b>
-  - [](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2> 🤳 možnosti kontaktování:</h2>
-
-[<img align="left" alt="OrMichal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/joshmadakor/
+- <b>C# projekty </b>
+  - [Bojová Aréna](https://github.com/OrMichal/Arena)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
