@@ -7,6 +7,8 @@
 
 - <b>C# projekty </b>
   - [Bojová Aréna](https://github.com/OrMichal/Arena)
+- <b>Python projekty</b>
+  - [spouštěč náhodných her na Steamu](https://github.com/OrMichal/randomGameLauncher)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
