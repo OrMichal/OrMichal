@@ -5,10 +5,12 @@
 
 <h2>Programování</h2>
 
-- <b>C# projekty </b>
+- <b>C#</b>
   - [Bojová Aréna](https://github.com/OrMichal/Arena)
-- <b>Python projekty</b>
+- <b>Python</b>
   - [spouštěč náhodných her na Steamu](https://github.com/OrMichal/randomGameLauncher)
+- <b>Html</b>
+  - [Webová stránka na učení cizího jazyka](https://github.com/OrMichal/LingoFish)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
