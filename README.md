@@ -10,6 +10,7 @@
 - <b>Python</b>
   - [spouštěč náhodných her na Steamu](https://github.com/OrMichal/randomGameLauncher)
   - [generátor silného hesla](https://github.com/OrMichal/randomPasswordGenerator)
+  - [To-Do list](https://github.com/OrMichal/to-do-list)
 - <b>Html</b>
   - [Webová stránka na učení cizího jazyka](https://github.com/OrMichal/LingoFish)
 
