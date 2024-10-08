@@ -9,6 +9,7 @@
   - [Bojová Aréna](https://github.com/OrMichal/Arena)
 - <b>Python</b>
   - [spouštěč náhodných her na Steamu](https://github.com/OrMichal/randomGameLauncher)
+  - [generátor silného hesla](https://github.com/OrMichal/randomPasswordGenerator)
 - <b>Html</b>
   - [Webová stránka na učení cizího jazyka](https://github.com/OrMichal/LingoFish)
 
