@@ -1,6 +1,6 @@
 # Zdravím, jsem Michal
 
-Jmenuji se **Michal Orsah**, je mi 17 let a jsem studentem střední školy, zaměřené na IT. 
+Jmenuji se **Michal Orsah**, je mi 18 let a jsem studentem střední školy, zaměřené na IT. 
 Mám vášeň pro programování a technologie a rád se učím nové dovednosti. 
 
 ## Projekty 🌟
