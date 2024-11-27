@@ -8,6 +8,7 @@ Mám vášeň pro programování a technologie a rád se učím nové dovednosti
 ### C# 
 - [Bojová Aréna](https://github.com/OrMichal/Arena)
 - [Jednoduchá databáze](https://github.com/OrMichal/PrimitiveDatabase)
+- [Průzkumník souborů](https://github.com/OrMichal/File_Explorer)
 
 ### 🐍 Python 
 - [Spouštěč náhodných her na Steamu](https://github.com/OrMichal/randomGameLauncher)
