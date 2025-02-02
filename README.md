@@ -17,5 +17,6 @@ Mám vášeň pro programování a technologie a rád se učím nové dovednosti
 
 ### 🌎 HTML 
 - [Webová stránka na učení cizího jazyka](https://github.com/OrMichal/LingoFish)
+- [Jednoduchý E-Shop](https://github.com/OrMichal/SerpentsE-shop)
 
 Jsem otevřený novým příležitostem a rád se zapojím do projektů, které mě vyzvou a umožní mi růst. Pokud máte zájem o spolupráci, neváhejte mě kontaktovat!
