@@ -17,9 +17,12 @@ Also this is the place, where I have learnt most of the programming languages an
 This is a basic web application build with React and NodeJs backend with only one purpose: 
 To help me with preparation on my high school leaving examination
 
-### [Noted!](https://github.com/noted)
+### [Noted!](https://github.com/OrMichal/noted)
 This is a simple user forum built using NextJs fullstack framework where users can ask questions and other user can answer them.
 It is pretty much like [Stackoverflow](https://stackoverflow.com).
+
+### [Lingofish](https://github.com/OrMichal/LingoFish)
+This is an application meant for language learning purposes.
 
 ## C#
 ### [File explorer](https://github.com/OrMichal/File_Explorer)
