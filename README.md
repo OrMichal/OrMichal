@@ -1,24 +1,11 @@
-# Zdravím, jsem Michal
+# Introduction
 
-Jmenuji se **Michal Orsah**, je mi 18 let a jsem studentem střední školy, zaměřené na IT. 
-Mám vášeň pro programování a technologie a rád se učím nové dovednosti. 
+Hi there, I'm **Michael** an 18 year old Czech student with hobbies consisting of expanding his knowledge of programming and language learning.
 
-## Projekty 🌟
+# Education
 
-### C# 
-- [Bojová Aréna](https://github.com/OrMichal/Arena)
-- [Jednoduchá databáze](https://github.com/OrMichal/PrimitiveDatabase)
-- [Průzkumník souborů](https://github.com/OrMichal/File_Explorer)
+##[SSŠVT](https://sssvt.cz)
 
-### 🐍 Python 
-- [Spouštěč náhodných her na Steamu](https://github.com/OrMichal/randomGameLauncher)
-- [Generátor silného hesla](https://github.com/OrMichal/randomPasswordGenerator)
-- [To-Do list](https://github.com/OrMichal/to-do-list)
+# Projects
 
-### 🌎 HTML 
-- [Webová stránka na učení cizího jazyka](https://github.com/OrMichal/LingoFish)
-- [Jednoduchý E-Shop](https://github.com/OrMichal/SerpentsE-shop)
-- [Web na rezervaci chaty](https://github.com/OrMichal/WebChata)
-- [Mé webové portfolio](https://github.com/OrMichal/portfolio)
-
-Jsem otevřený novým příležitostem a rád se zapojím do projektů, které mě vyzvou a umožní mi růst. Pokud máte zájem o spolupráci, neváhejte mě kontaktovat!
+## Web development
