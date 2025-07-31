@@ -13,12 +13,12 @@ Also this is the place, where I have learnt most of the programming languages an
 
 ## Web development
 
-###[Odmaturuj!](https://OrMichal.github.io/Odmaturuj)
+### [Odmaturuj!](https://OrMichal.github.io/Odmaturuj)
 This is a basic web application build with React and NodeJs backend with only one purpose: 
 To help me with preparation on my high school leaving examination
 
 ## C#
-###[File explorer](https://github.com/OrMichal/File_Explorer)
+### [File explorer](https://github.com/OrMichal/File_Explorer)
 This is a midnight commander like program built with C# .net including most of the midnight commander functionality.
 
 # Aditional information about me
