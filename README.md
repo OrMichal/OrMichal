@@ -7,8 +7,19 @@ Hi there, I'm **Michael** an 18 year old Czech quadralingual student with hobbie
 ## [SSŠVT](https://sssvt.cz)
 (2022 - 2026)
 This is the high school where my love for software engineering was born.
-
+Also this is the place, where I have learnt most of the programming languages and frameworks I know so far including: C#, Javascript, Typescript, Angular, Html, Css and Sql.
 
 # Projects
 
 ## Web development
+
+###[Odmaturuj!](https://OrMichal.github.io/Odmaturuj)
+This is a basic web application build with React and NodeJs backend with only one purpose: 
+To help me with preparation on my high school leaving examination
+
+## C#
+###[File explorer](https://github.com/OrMichal/File_Explorer)
+This is a midnight commander like program built with C# .net including most of the midnight commander functionality.
+
+# Aditional information about me
+- I use Arch btw
