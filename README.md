@@ -1,6 +1,6 @@
 # Introduction
 
-Hi there, I'm **Michael** an 18 year old Czech quadralingual student with hobbies consisting of expanding his knowledge of programming and language learning.
+Hi there, I'm **Michael** a 19 year old Czech quadralingual student with hobbies consisting of expanding his knowledge of programming and language learning.
 
 # Education
 
